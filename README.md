@@ -1,3 +1,4 @@
+<img width="626" height="371" alt="gui" src="https://github.com/user-attachments/assets/418a29a1-a8f9-47d1-a50a-da904f83aa19" />
 # cinematic-volume-rendering
 
  This project utilizes the MeVisLab software tool (version 3.5.0 or above) to develop the cinematic rendering pipeline.
