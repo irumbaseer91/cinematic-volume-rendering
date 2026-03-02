@@ -16,8 +16,8 @@ To use this CR pipeline, ensure you have MeVisLab software installed on your per
 * Press **Ctrl + R**: Hold the Ctrl key on your keyboard and simultaneously press the R key to execute the graphical user interface (GUI).
 * Access the "**Scripting**" menu in the MeVisLab interface and choose "**Start Network Script**" from the appropriate tab menu to initiate the graphical user interface (GUI).
 
-<p align="center">
- <img width="400" height="371" alt="gui" src="https://github.com/user-attachments/assets/418a29a1-a8f9-47d1-a50a-da904f83aa19" />
-</p>
+
+<img width="1414" height="779" alt="gui_mevis" src="https://github.com/user-attachments/assets/42bede01-a3b6-4717-ba92-663b006ae32d" />
+
 
        
