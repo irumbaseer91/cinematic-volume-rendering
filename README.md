@@ -1,4 +1,3 @@
-<img width="626" height="371" alt="gui" src="https://github.com/user-attachments/assets/418a29a1-a8f9-47d1-a50a-da904f83aa19" />
 # cinematic-volume-rendering
 
  This project utilizes the MeVisLab software tool (version 3.5.0 or above) to develop the cinematic rendering pipeline.
@@ -12,6 +11,9 @@ To use this CR pipeline, ensure you have MeVisLab software installed on your per
  # Getting started
 1. Ensure you have MeVisLab software version 3.5.0 or later installed on your system.
 2. Clone or download the project repository from GitHub.
+
+
+<img width="626" height="371" alt="gui" src="https://github.com/user-attachments/assets/418a29a1-a8f9-47d1-a50a-da904f83aa19" />
 3. Open MeVisLab and import the provided project file.
 4. Load the DICOM files and run the application using either of the following methods:
 * Press **Ctrl + R**: Hold the Ctrl key on your keyboard and simultaneously press the R key to execute the graphical user interface (GUI).
